@@ -32,6 +32,7 @@ Barra de Navegación Inferior (BottomNavigationBar): La barra de navegación inf
 <p align="center">
 <img src="./assets/2.png" width="200" alt="Captura de Pantalla 1">
 <img src="./assets/1.png" width="200" alt="Captura de Pantalla 2">
+<img src="./assets/3.png" width="200" alt="Captura de Pantalla 3">
 </p>
 
 
